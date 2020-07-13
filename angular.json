@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "test-httpclient"
+    }
+  },
+  "defaultProject": "test-httpclient",
+  "cli": {
+    "analytics": false
+  }
 }
